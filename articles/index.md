@@ -1,9 +1,17 @@
 ---
 layout: page
-title: Sample Articles
+title:
 excerpt: "An archive of articles sorted by date."
 search_omit: true
 ---
+
+
+# Section
+Test Test Test
+## SubSection
+Test Test Test
+### subsubSection
+Test Test Test
 
 <ul class="post-list">
 {% for post in site.categories.articles %} 
