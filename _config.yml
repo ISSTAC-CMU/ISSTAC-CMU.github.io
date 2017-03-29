@@ -6,7 +6,7 @@ description: CMU Team
 logo: site-logo.png
 search: true
 #url: http://localhost:4000
-url: http://isstac-cmu.github.io
+url: https://ISSTAC-CMU.github.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/
